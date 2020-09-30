@@ -1,4 +1,5 @@
 # gitDemo
+(git 教程 https://git-scm.com/book/zh/v2/)[https://git-scm.com/book/zh/v2/]
 ### 
 git clone https://github.com/songlin0859/gitDemo.git //checkout远程git
 cd gitDemo/ //进入文件所在文件夹
